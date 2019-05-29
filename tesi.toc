@@ -10,7 +10,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.1}Homepage}{2}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}Where}{2}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.1}Where}{3}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.2}Who}{3}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax 
@@ -21,6 +21,8 @@
 \contentsline {subsection}{\numberline {2.1.5}When}{3}{subsection.2.1.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.6}How}{3}{subsection.2.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Pagine interne}{3}{section.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Descrizione dello stage}{4}{chapter.3}
 \defcounter {refsection}{0}\relax 
