@@ -56,7 +56,9 @@
 
 %\usepackage{indentfirst}               % rientra il primo paragrafo di ogni sezione
 
-\usepackage{graphicx}                   % immagini
+\usepackage{graphicx}
+
+\usepackage{wrapfig}
 
 \usepackage{hyperref}                   % collegamenti ipertestuali
 
@@ -115,20 +117,18 @@
 % Materiale principale
 %**************************************************************
 \mainmatter
-\input{capitoli/capitolo-1}             % Introduzione
-\input{capitoli/capitolo-2}             % Processi
-\input{capitoli/capitolo-3}             % Kick-Off
-\input{capitoli/capitolo-4}             % Concept Preview
-\input{capitoli/capitolo-5}             % Product Prototype
-\input{capitoli/capitolo-6}             % Product Design Freeze e SOP
-\input{capitoli/capitolo-7}             % Conclusioni
+\input{capitoli/1-introduzione}
+\input{capitoli/2-homepage}      
+\input{capitoli/3-pagine_interne}    
+\input{capitoli/4-pubblicita}    
+\input{capitoli/5-versione_mobile}    
+\input{capitoli/capitolo-6}    
+\input{capitoli/capitolo-7}    
 \appendix                               
-\input{capitoli/capitolo-A}             % Appendice A
+\input{capitoli/capitolo-A}
 
 %**************************************************************
 % Materiale finale
 %**************************************************************
-\backmatter
-\printglossaries
-\input{inizio-fine/bibliografia}
 \end{document}
+\\
